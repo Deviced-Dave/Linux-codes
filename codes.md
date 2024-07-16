@@ -1,7 +1,10 @@
 # for root user on Raspberry Pi use:
-Sudo su
+sudo su
 # to exit root user:
 ctrl+D
 
 # To shutdown your raspberry Pi from Terminal
-Sudo shutdown -h now
+sudo shutdown -h now
+
+# To restart your raspberry Pi from Terminal
+sudo shutdown -r
